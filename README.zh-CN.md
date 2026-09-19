@@ -16,9 +16,9 @@
 
 | 你的照片 | 你的冰箱贴 |
 | :---: | :---: |
-| <img src="docs/images/dogs-before.jpg" alt="草地上白色狗狗与镂空尖塔的原照片" width="420"> | <img src="docs/images/dogs-after.jpg" alt="保留尖塔梁架、白色狗狗与牵引绳的树脂浮雕冰箱贴效果图" width="420"> |
+| <img src="docs/images/skyline-before.jpg" alt="薄雾中的香港天际线与海港原照片" width="420"> | <img src="docs/images/skyline-after.jpg" alt="保留香港天际线、高楼与摩天轮的海港浮雕冰箱贴效果图" width="420"> |
 
-镂空的梁架、草地上的狗狗、伸向一侧的牵引绳——照片里值得记住的细节，都可以成为设计的一部分。旅行冰箱贴引导具备图像能力的 Agent，把这些记忆转成有轮廓、层次与材质的纪念品。
+薄雾中的香港天际线、海边的摩天轮、蓝灰色的水面——照片里值得记住的细节，都可以成为设计的一部分。旅行冰箱贴引导具备图像能力的 Agent，把这些记忆转成有轮廓、层次与材质的纪念品。
 
 **[查看全部 7 组原图与成品对照 →](docs/gallery.md)**
 

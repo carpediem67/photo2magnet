@@ -16,9 +16,9 @@ Turn a travel photo, a favorite building, or a moment with your pets into a scul
 
 | Your photo | Your magnet |
 | :---: | :---: |
-| <img src="docs/images/dogs-before.jpg" alt="Original photo of an open-frame spire and white dogs on a lawn" width="420"> | <img src="docs/images/dogs-after.jpg" alt="The same spire and dogs transformed into a sculpted resin fridge-magnet concept" width="420"> |
+| <img src="docs/images/skyline-before.jpg" alt="Original photo of Hong Kong's misty skyline and harbor" width="420"> | <img src="docs/images/skyline-after.jpg" alt="Hong Kong's skyline, towers, and waterfront wheel transformed into a sculpted fridge-magnet concept" width="420"> |
 
-Keep the open beams, the white dogs, the leash—and the memory. Photo2Magnet guides an image-capable agent to preserve those details while designing a connected relief, a custom outline, and convincing material depth.
+Keep Hong Kong's misty skyline, the waterfront wheel, the blue-gray water—and the memory. Photo2Magnet guides an image-capable agent to preserve those details while designing a connected relief, a custom outline, and convincing material depth.
 
 **[See all 7 before-and-after examples →](docs/gallery.md)**
 
