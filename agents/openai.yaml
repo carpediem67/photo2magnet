@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行冰箱贴 · Photo2Magnet"
+  short_description: "Turn photos into sculpted fridge-magnet concept images"
+  default_prompt: "Use $photo2magnet to turn this photo into a sculpted fridge-magnet concept image."
