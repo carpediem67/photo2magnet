@@ -46,9 +46,15 @@ Attach a photo and ask:
 Use $photo2magnet to turn this photo into a sculpted fridge magnet.
 ```
 
-The default is one square product image with a painted-resin relief, a clean background, and no lettering. Your preferences override the defaults.
+The default is one square product image with a painted-resin relief and a clean background. If your creation request includes a place, attraction, or title, the skill adds that name as a plaque. Without a name or lettering request, the default is no text. An explicit no-text request takes priority.
 
 Try a few variations:
+
+```text
+Use $photo2magnet to turn this Victoria Harbour, Hong Kong photo into a fridge magnet.
+Make one Chinese-label version and one English-label version,
+keeping the scene, material, and background consistent.
+```
 
 ```text
 Use $photo2magnet with this harbor photo.
